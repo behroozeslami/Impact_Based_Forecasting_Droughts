@@ -1,0 +1,2 @@
+array(['KWANIA', 'NABILATUK', 'KABONG', 'KYOTERA', 'KAPELEBYONG',
+       'KASSANDA', 'KIKUUBE', 'BUGWERI'], dtype=object)
